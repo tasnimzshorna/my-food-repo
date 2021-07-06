@@ -5,6 +5,9 @@ body{
 .red{
     color:rgb(241, 82, 82);
 }
+h1{
+    font-size: 30px;line-height: 30px;
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(rgb(87, 16, 3),red);
@@ -17,12 +20,12 @@ body{
     display: flex;
 }
 .management{
-    width: 50%;
+    width: 70%;
     padding-left: 6%;
 }
 .management img{
     width: 80%;
 }
 #line{
-    line-height: 50px;
+    line-height: 60px;
 }
