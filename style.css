@@ -1,0 +1,28 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+.red{
+    color:rgb(241, 82, 82);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(87, 16, 3),red);
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+}
+.display{
+    display: flex;
+}
+.management{
+    width: 50%;
+    padding-left: 6%;
+}
+.management img{
+    width: 80%;
+}
+#line{
+    line-height: 50px;
+}
