@@ -30,9 +30,22 @@ h1{
 #line{
     line-height: 60px;
 }
-#space{
+.space{
     line-height:100px ;
 }
 #banner{
     background-image: url(images/Frame\ 58.jpg);
+}
+.middle{
+    text-align: center;
+}
+.food-order{
+    width: 50%;
+    margin: 5px 10px 20px 10px;
+    padding-right: 3px;
+    border:1px solid white;
+    border-radius: 30px; box-shadow: 20px 10px 5px  #aaaaaa;
+}
+.food-order img{
+    width: 80%; border-radius: 20px;padding-top: 10px;
 }
