@@ -1,6 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
-    margin: 10%;
+    margin: 0;
 }
 .red{
     color:rgb(241, 82, 82);
@@ -49,3 +49,47 @@ h1{
 .food-order img{
     width: 80%; border-radius: 20px;padding-top: 10px;
 }
+.footer{
+    text-align: center;
+    background-color:black  ;
+    color: dimgray;padding-bottom: 15px;
+} .footer h5{
+    margin-top: 50px;
+    font-size: 40px;
+    letter-spacing: 2px;
+    padding-top: 30px;
+    padding-bottom: 1px;
+ }
+ .footer p{
+     font-size: 19px;
+     padding-bottom: 40px;
+ }
+ .social_subscriptions {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solide white;
+    box-shadow: 5px 4px 25px #aaaaaa;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+.social_subscriptions .youtube h1 {
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.social_subscriptions .youtube p {
+    margin-bottom: 30px;
+}
+input{
+    border: 3px solid rgb(119, 5, 5);
+    border-radius: 10px;
+    padding: o 10px;
+}
+
+
+    
+
